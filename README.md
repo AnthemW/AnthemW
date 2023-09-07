@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthemW
 - 👀 I’m interested in Deep Learning and Precipitation Nowcasting
-- 🌱 I’m currently learning ...
+- 🌱 Struggle to pursue a PhD degree TAT
 - 📫 Email：737754489@qq.com
 
 <!---
